@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_componentes_imagen_principals",
+  "info": {
+    "displayName": "imagenPrincipal",
+    "icon": "expand"
+  },
+  "options": {},
+  "attributes": {
+    "mobile": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "desk": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}

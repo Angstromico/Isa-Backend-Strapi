@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_layout_icon_texts",
+  "info": {
+    "displayName": "IconText",
+    "icon": "check"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "text": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

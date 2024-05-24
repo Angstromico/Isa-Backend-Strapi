@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_layout_social_links",
+  "info": {
+    "displayName": "SocialLinks",
+    "icon": "earth",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "icono": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
